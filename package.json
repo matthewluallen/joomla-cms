@@ -48,7 +48,7 @@
     "chosen-js": "^1.8.7",
     "codemirror": "^5.65.15",
     "cropperjs": "^1.6.1",
-    "diff": "^5.1.0",
+    "diff": "^5.2.2",
     "dotenv": "^16.3.1",
     "dragula": "^3.7.3",
     "focus-visible": "^5.2.0",
